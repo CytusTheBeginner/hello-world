@@ -2,11 +2,11 @@
 
 ## cara instalasi
 
-```npm create vite@latest ~~~
-~~~ npm install ~~~
-~~~ npm run dev ~~~
+```
+npm create vite@latest
+npm install
+npm run dev
 
-## untuk production
-~~~ npm run build ~~~
+untuk production : npm run build
 
 ```
